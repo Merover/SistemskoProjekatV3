@@ -1,0 +1,16 @@
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\bin\Debug\Client.exe.config
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\bin\Debug\Client.exe
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\bin\Debug\Client.pdb
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\bin\Debug\System.Reactive.dll
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\bin\Debug\System.Reactive.xml
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\obj\Debug\Client.exe
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV3\Client\obj\Debug\Client.pdb

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\Uni\\Sistemsko Programiranje\\SistemskoProjekatV3\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F428648-00B9-43E4-9B00-763A1A1982BC}|Server.csproj|C:\\Users\\Ivan\\Desktop\\Uni\\Sistemsko Programiranje\\SistemskoProjekatV3\\Server\\obradjujegreskeiloopujereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F428648-00B9-43E4-9B00-763A1A1982BC}|Server.csproj|solutionrelative:obradjujegreskeiloopujereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F428648-00B9-43E4-9B00-763A1A1982BC}|Server.csproj|C:\\Users\\Ivan\\Desktop\\Uni\\Sistemsko Programiranje\\SistemskoProjekatV3\\Server\\copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F428648-00B9-43E4-9B00-763A1A1982BC}|Server.csproj|solutionrelative:copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "copy.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Uni\\Sistemsko Programiranje\\SistemskoProjekatV3\\Server\\copy.cs",
+              "RelativeDocumentMoniker": "copy.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Uni\\Sistemsko Programiranje\\SistemskoProjekatV3\\Server\\copy.cs",
+              "RelativeToolTip": "copy.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAswNQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:14:45.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObradjujeGreskeILoopujeReq.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Uni\\Sistemsko Programiranje\\SistemskoProjekatV3\\Server\\ObradjujeGreskeILoopujeReq.cs",
+              "RelativeDocumentMoniker": "ObradjujeGreskeILoopujeReq.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Uni\\Sistemsko Programiranje\\SistemskoProjekatV3\\Server\\ObradjujeGreskeILoopujeReq.cs",
+              "RelativeToolTip": "ObradjujeGreskeILoopujeReq.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAN0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:52:24.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
